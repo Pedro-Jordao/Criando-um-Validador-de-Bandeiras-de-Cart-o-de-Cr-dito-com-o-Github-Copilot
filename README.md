@@ -18,8 +18,7 @@ Neste projeto, foi desenvolvido um **validador de bandeiras de cartão de crédi
 O algoritmo de **Luhn** foi implementado para verificar a validade do número de cartão. O código conta com uma função `detect_flag` para determinar a bandeira e uma função `luhn_check` para verificar o dígito de controle.
 
 Para geração de cartões de teste válidos, foi utilizado o Algoritmo de Luhn com prefixos reais de cada bandeira.
-
-Todo o projeto foi construído e documentado localmente, sem utilização da interface gráfica do GitHub. O repositório foi inicializado e enviado ao GitHub diretamente pelo terminal. O **GitHub Copilot** foi utilizado como assistente de programação para sugerir trechos de código e otimizar a implementação das regras de validação.
+O **GitHub Copilot** foi utilizado como assistente de programação para sugerir trechos de código e otimizar a implementação das regras de validação.
 
 ---
 
